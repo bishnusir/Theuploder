@@ -1,2 +1,2 @@
-# Theuploder
-this script ctreate by me to upload any files remotely
+# remote-file-upload
+This is a Remote File Upload PHP Script by Pure Coding.
